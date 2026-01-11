@@ -1,3 +1,4 @@
 Sử dụng Py 3.11 để chạy 
 cài 1 đặt requirement
 Cài đặt ven310
+chạy main đầu tiên để train các model ALS rồi mới chạy các thứ khác
